@@ -5,3 +5,5 @@
 ![acn_ai](https://user-images.githubusercontent.com/19508013/171912919-7a3e012d-9daa-4758-9e2e-fbed1e74e58c.png)
 
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
+
+![Me](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/7b94e639-001a-4754-af66-11dd46617707)
