@@ -9,3 +9,9 @@
 ![Me](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/7b94e639-001a-4754-af66-11dd46617707)
 
 ![IMG_0682](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/5d66d3dc-aa3b-49fa-87d7-54262a94e69e)
+
+![Image-1](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs/assets/19508013/35588632-0d69-4fc3-a198-5decf585a2e9)
+
+<img width="328" alt="Screen Shot 2023-12-16 at 4 18 11 PM" src="https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs/assets/19508013/952f1c50-513a-40bc-a590-1e24fa7c5fc5">
+
+![1697238945238](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs/assets/19508013/0e1c2307-8666-4c2a-8f81-dc687be40c54)
