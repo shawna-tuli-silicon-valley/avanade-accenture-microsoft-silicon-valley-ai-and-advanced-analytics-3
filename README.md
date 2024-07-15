@@ -6,6 +6,11 @@
 
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+#### "Office / Recruiting 
+Once again, Shawna was the mainstay of our UC Irinve (UCI) recruiting efforts. She participated in an all-day recruiting fair on campus. She spoke with so many people that by the end of the day she lost her voice. She also led our Capstone Program (where a few Accenture people team with UCI grad students in a case competition focusing on Data, Analytics, and AI. She completed the Marketing activities to reach the students and played a major roles working with the team. This year the team utilized LLMs to enhance customer service within the call center (see attached document for more details). I stress this work because this is not easy, and she does it as a "Plus 1." The result for us is improved brand on campus and with our target professors and access to some of UCI's top students. 
+
+#### Office / Stewardship
+Shawna has helped me several times with people related tasks. For example, a highly ranked grad student from Yale approached me about finding out more about Accenture and the opportunities here (a family friend's son). He was very impressive and had an undergraduate degree in Data Science from UC Berkeley so I immediately thought that Shawna would be a great person to talk with him about what it is like working in the field at Accenture. She eagerly agreed to meet with him, followed through very quickly and the feedback from the student was that it was the best conversation he has ever had about Accenture. Shawna has also completed multiple research papers that were published - truly amazing and detailed work. These are just two examples of how she is a true steward of our people and overall brand. 
 
 #### "Outstanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
 I am delighted to recognize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
