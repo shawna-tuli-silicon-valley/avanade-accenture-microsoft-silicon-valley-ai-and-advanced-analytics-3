@@ -12,6 +12,8 @@ Once again, Shawna was the mainstay of our UC Irinve (UCI) recruiting efforts. S
 #### Office / Stewardship
 Shawna has helped me several times with people related tasks. For example, a highly ranked grad student from Yale approached me about finding out more about Accenture and the opportunities here (a family friend's son). He was very impressive and had an undergraduate degree in Data Science from UC Berkeley so I immediately thought that Shawna would be a great person to talk with him about what it is like working in the field at Accenture. She eagerly agreed to meet with him, followed through very quickly and the feedback from the student was that it was the best conversation he has ever had about Accenture. Shawna has also completed multiple research papers that were published - truly amazing and detailed work. These are just two examples of how she is a true steward of our people and overall brand. 
 
+Shawna does so many things and does them all in a worldclass way that I am certain she must have a twin sister - as I have no idea where she finds the time." - Marty Hodgett (Accenture Southern California Office Managing Director) 
+
 #### "Outstanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
 I am delighted to recognize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
 
