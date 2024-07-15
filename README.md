@@ -6,6 +6,21 @@
 
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+#### OutStanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
+"I am delighted to recgonize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
+
+#### Innovative Apporach and Technical Expertise
+Shawna has worked closely with Accenture AI subject matter advisors to generate innovative ideas that benefit both the students and Accenture. Her meticulous attention to detail has ensured the development of datasets that align with the program's objectives. This year's project, focused on building a Sentiment Analysis and Transcript Summary CoPilot for Call Center Agents using Generative AI, is a testament to her vision and expertise. 
+
+#### Guiding Students to Success
+Shawna provided functional and technical guidance, empowering students to develop an API service that can seamlessly integrate with call centr systems. Her framework and mentorship enabled students to deliver outstanding results, showcasing the potential of AI in real-world applications.
+
+#### Impact and Recognition
+Shawna's dedication and perseverance have significantly enhanced our brand awareness and strengthened our relationship with the university. Her contributions have raised the bar for future engagements, and her tenacity has inspired our team to strive for excellence.
+
+#### Well-Deserved Recognition
+Shawna's exceptional leadership, technical expertise, and commitment to excellenece make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
+
 "Shawna was very enthusiastic and ready to jump right in to help gather and leverage data to prepare for upcoming migration waves. Her insight and knowledge was greatly appreciated." - Stacey Banks (Technical Program Manager at Amazon) 
 
 ![Me](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/7b94e639-001a-4754-af66-11dd46617707)
