@@ -7,7 +7,7 @@
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
 #### OutStanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
-"I am delighted to recgonize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
+"I am delighted to recognize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
 
 #### Innovative Apporach and Technical Expertise
 Shawna has worked closely with Accenture AI subject matter advisors to generate innovative ideas that benefit both the students and Accenture. Her meticulous attention to detail has ensured the development of datasets that align with the program's objectives. This year's project, focused on building a Sentiment Analysis and Transcript Summary CoPilot for Call Center Agents using Generative AI, is a testament to her vision and expertise. 
