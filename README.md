@@ -13,7 +13,7 @@
 Shawna has worked closely with Accenture AI subject matter advisors to generate innovative ideas that benefit both the students and Accenture. Her meticulous attention to detail has ensured the development of datasets that align with the program's objectives. This year's project, focused on building a Sentiment Analysis and Transcript Summary CoPilot for Call Center Agents using Generative AI, is a testament to her vision and expertise. 
 
 #### Guiding Students to Success
-Shawna provided functional and technical guidance, empowering students to develop an API service that can seamlessly integrate with call centr systems. Her framework and mentorship enabled students to deliver outstanding results, showcasing the potential of AI in real-world applications.
+Shawna provided functional and technical guidance, empowering students to develop an API service that can seamlessly integrate with call center systems. Her framework and mentorship enabled students to deliver outstanding results, showcasing the potential of AI in real-world applications.
 
 #### Impact and Recognition
 Shawna's dedication and perseverance have significantly enhanced our brand awareness and strengthened our relationship with the university. Her contributions have raised the bar for future engagements, and her tenacity has inspired our team to strive for excellence.
