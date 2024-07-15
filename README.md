@@ -6,8 +6,8 @@
 
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
-"
-#### Outstanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
+
+#### "Outstanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
 I am delighted to recognize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
 
 #### Innovative Apporach and Technical Expertise
