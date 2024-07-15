@@ -27,7 +27,7 @@ Shawna provided functional and technical guidance, empowering students to develo
 Shawna's dedication and perseverance have significantly enhanced our brand awareness and strengthened our relationship with the university. Her contributions have raised the bar for future engagements, and her tenacity has inspired our team to strive for excellence.
 
 #### Well-Deserved Recognition
-Shawna's exceptional leadership, technical expertise, and commitment to excellenece make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
+Shawna's exceptional leadership, technical expertise, and commitment to excellence make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
 
 "Shawna was very enthusiastic and ready to jump right in to help gather and leverage data to prepare for upcoming migration waves. Her insight and knowledge was greatly appreciated." - Stacey Banks (Technical Program Manager at Amazon) 
 
