@@ -1,9 +1,6 @@
-![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
-
 ![acn](https://user-images.githubusercontent.com/19508013/171912894-f18aa54b-f9f8-4568-8ce8-2153b0b7db48.png)
-
 ![acn_ai](https://user-images.githubusercontent.com/19508013/171912919-7a3e012d-9daa-4758-9e2e-fbed1e74e58c.png)
-
+![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
 "I am delighted to commend the exceptional work of Shawna Tuli who lead the data analytics project for our SparkPoint program, which provides free financial coaching services for low-income families throughout the San Francisco Bay Area. Shawna led the team successfully through complex data analytics that addressed critical questions we had about the effectiveness of the program model. We provided Shawna and her team with 15 years worth of historical data to help identify trends and actionable insights to inform future program decisions as we scale the program out to the rest of the State of California. Her dedication and expertise have been instrumental in evaluating the impact of our SparkPoint program. By meticulously guiding a team of analysts, Shawna provided invaluable insights into various aspects of our program model, shedding light on areas that can inform our future strategy and program refinement. Her leadership, analytical acumen, and collaborative spirit have not only enhanced our understanding of SparkPoint’s effectiveness but also set a high standard for future projects. We are deeply grateful for her remarkable contributions and the positive impact she has made on our organization." - Jacqueline Chan (United Way Bay Area Vice President, Impact Strategies)
