@@ -3,11 +3,11 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
-"A big thank you for your continued support of ICS Capstone Projects. The impact you have on our students' learning and practical experience is tremendous." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
-
 "I know we haven't gotten a chance to work closely together this year but my previous interactions with you leave me with not doubt that you'll be a high performer at the Manager level.
 
 David - happy to chat as needed. Tuli has been terrific on the UCI engagement, brings strong organizational skills along with the type of attitude that makes others want to work with her." - Manish Dasaur (Accenture Los Angeles Managing Director)
+
+"A big thank you for your continued support of ICS Capstone Projects. The impact you have on our students' learning and practical experience is tremendous." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
 
 "I am delighted to commend the exceptional work of Shawna Tuli who lead the data analytics project for our SparkPoint program, which provides free financial coaching services for low-income families throughout the San Francisco Bay Area. Shawna led the team successfully through complex data analytics that addressed critical questions we had about the effectiveness of the program model. We provided Shawna and her team with 15 years worth of historical data to help identify trends and actionable insights to inform future program decisions as we scale the program out to the rest of the State of California. Her dedication and expertise have been instrumental in evaluating the impact of our SparkPoint program. By meticulously guiding a team of analysts, Shawna provided invaluable insights into various aspects of our program model, shedding light on areas that can inform our future strategy and program refinement. Her leadership, analytical acumen, and collaborative spirit have not only enhanced our understanding of SparkPoint’s effectiveness but also set a high standard for future projects. We are deeply grateful for her remarkable contributions and the positive impact she has made on our organization." - Jacqueline Chan (United Way Bay Area Vice President, Impact Strategies)
 
