@@ -3,6 +3,8 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+"A big thank you for your continued support of ICS Capstone Projects. The impact you have on our students' learning and practical experience is tremendous." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
+
 "I know we haven't gotten a chance to work closely together this year but my previous interactions with you leave me with not doubt that you'll be a high performer at the Manager level.
 
 David - happy to chat as needed. Tuli has been terrific on the UCI engagement, brings strong organizational skills along with the type of attitude that makes others want to work with her." - Manish Dasaur (Accenture Los Angeles Managing Director)
