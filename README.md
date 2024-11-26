@@ -38,6 +38,8 @@ Shawna's exceptional leadership, technical expertise, and commitment to excellen
 
 "Shawna was very enthusiastic and ready to jump right in to help gather and leverage data to prepare for upcoming migration waves. Her insight and knowledge was greatly appreciated." - Stacey Banks (Technical Program Manager at Amazon) 
 
+![IMG_4556](https://github.com/user-attachments/assets/9f6eb5dc-1075-4e0d-a2df-9f75efc2ba5b)
+
 ![Me](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/7b94e639-001a-4754-af66-11dd46617707)
 
 ![IMG_0682](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/5d66d3dc-aa3b-49fa-87d7-54262a94e69e)
