@@ -40,10 +40,4 @@ Shawna's exceptional leadership, technical expertise, and commitment to excellen
 
 ![IMG_4556](https://github.com/user-attachments/assets/9f6eb5dc-1075-4e0d-a2df-9f75efc2ba5b)
 
-![Me](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/7b94e639-001a-4754-af66-11dd46617707)
-
 ![IMG_0682](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/5d66d3dc-aa3b-49fa-87d7-54262a94e69e)
-
-<img width="328" alt="Screen Shot 2023-12-16 at 4 18 11 PM" src="https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/507d9ea4-8d7e-450c-a159-a081f6e21186">
-
-![Image-1](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/18b2f467-42b9-44f7-8db7-aeea6a64a6c8)
