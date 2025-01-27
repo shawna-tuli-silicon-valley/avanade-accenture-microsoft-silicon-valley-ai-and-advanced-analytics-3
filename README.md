@@ -9,6 +9,10 @@
 
 Shawna's dedication to academic rigor has led her teams to publish their research across respected platforms, including UROP, NSF, and WJARR, adding a meaningful layer of scholarly achievement to the capstone experience. Her combination of technical expertise, hands-on guidance, and motivational leadership has made a significant and lasting impact on our UCI ICS students and the field of data science. I highly recommend Shawna for her visionary leadership and unwavering commitment to advancing innovation through collaboration." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
 
+"I had the pleasure of having Shawna as my manager for Accenture DSSG's pro-bono work with United Way Bay Area. From the start, Shawna's approachability and technical expertise stood out to me, helping our team tackle difficult statistical analyses coupled with complex historical data. She is also a gifted communicator - she explained technical concepts to non-technical client stakeholders in an accessible way and was a strong mentor to our team of junior data scientists and analysts. As a result, we successfully concluded the second phase of analysis with UWBA and have continued the partnership for a third phase of work.
+
+Shawna excelled both as a data science expert and a strong people-focused manager. She played a crucial role in the success of Accenture's pro-bono partnership with UWBA. I was honored to have this opportunity to work with Shawna." - Vivian Du (Accenture San Francisco Tech Architecture Analyst)
+
 "I know we haven't gotten a chance to work closely together this year but my previous interactions with you leave me with not doubt that you'll be a high performer at the Manager level.
 
 David - happy to chat as needed. Tuli has been terrific on the UCI engagement, brings strong organizational skills along with the type of attitude that makes others want to work with her." - Manish Dasaur (Accenture Los Angeles Managing Director)
