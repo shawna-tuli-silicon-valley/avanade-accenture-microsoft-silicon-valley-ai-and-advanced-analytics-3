@@ -3,6 +3,10 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+"It's great to hear that you're up for a Manager promotion. I wanted to take a moment to express my sincere gratitude for the invaluable support and guidance you have provided me throughout my career journey. Your advice on training, upskilling, and career success has been instrumental in my professional growth.
+I particularly appreciate your responsiveness and willingness to assist me whenever I have questions. Your insights have always been timely and relevant, helping me navigate various challenges and opportunities. Your dedication to my development has not gone unnoticed, and I am truly grateful for your continued support.
+Thank you once again for being such a wonderful career advisor. Your efforts have made a significant impact on my career, and I look forward to continuing to learn and grow under your guidance." - Sisley Lin (Avanade Pomona AI & Automation Practice Analyst)
+
 "I had the chance to first network with Shawna when I was interning at Avanade, and she took me on as a mentee when I joined full-time. Shawna synced with me weekly to help give me guidance on how to succeed in consulting and tech. She created an approachable and open environment where I can freely ask questions I have and she can offer helpful advice. With Shawna's help, I have taken major leaps in planning out and advancing my career, understanding the opportunities I have as a consultant, and growing my network." - Abhinav Chandra (Avanade San Diego AI & Automation Practice Analyst)
 
 "Shawna was very enthusiastic and ready to jump right in to help gather and leverage data to prepare for upcoming migration waves. Her insight and knowledge was greatly appreciated." - Stacey Banks (Technical Program Manager at Amazon)
