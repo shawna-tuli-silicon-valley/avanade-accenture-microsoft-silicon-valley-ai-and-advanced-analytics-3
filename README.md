@@ -48,8 +48,6 @@ Shawna's dedication and perseverance have significantly enhanced our brand aware
 #### Well-Deserved Recognition
 Shawna's exceptional leadership, technical expertise, and commitment to excellence make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
 
-"Shawna was very enthusiastic and ready to jump right in to help gather and leverage data to prepare for upcoming migration waves. Her insight and knowledge was greatly appreciated." - Stacey Banks (Technical Program Manager at Amazon) 
-
 ![IMG_4556](https://github.com/user-attachments/assets/9f6eb5dc-1075-4e0d-a2df-9f75efc2ba5b)
 
 ![IMG_0682](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3/assets/19508013/5d66d3dc-aa3b-49fa-87d7-54262a94e69e)
