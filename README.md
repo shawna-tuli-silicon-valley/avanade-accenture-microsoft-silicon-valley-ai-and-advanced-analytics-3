@@ -3,6 +3,14 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+"I had the privilege of collaborating with Shawna Tuli over two quarters on an AI-powered Assistant to streamline General Rate Case processes. From our first weekly check-in, Shawna demonstrated an exceptional ability to distill complex technical concepts into clear, actionable guidance. Her quick communication skills ensured I never waited more than a few hours for feedback or answers—no matter how detailed my questions were.
+
+Shawna’s commitment extended far beyond our scheduled meetings. She proactively reviewed drafts of our research paper, often outside of normal hours to ensure we met journal-ready standards. Her willingness to be available at all times and to go above and beyond weekly check-ins created an environment where I felt fully supported to take creative risks and grow as a computer scientist.
+
+Beyond her technical expertise in building automated data pipelines, LLM integrations, and user-centric React interfaces, Shawna’s mentorship offered invaluable career insights. She generously shared her experiences at Accenture and within the broader tech consulting landscape, helping me better understand how to navigate both AI projects and professional growth.
+
+I wholeheartedly recommend Shawna to anyone seeking not only an outstanding AI and cloud innovator, but also a mentor whose dedication, responsiveness, and genuine investment in her colleagues set her apart. She would be an asset to any team." - Rish Sharma (UCI ICS Computer Science Senior)
+
 "It's great to hear that you're up for a Manager promotion. I wanted to take a moment to express my sincere gratitude for the invaluable support and guidance you have provided me throughout my career journey. Your advice on training, upskilling, and career success has been instrumental in my professional growth.
 I particularly appreciate your responsiveness and willingness to assist me whenever I have questions. Your insights have always been timely and relevant, helping me navigate various challenges and opportunities. Your dedication to my development has not gone unnoticed, and I am truly grateful for your continued support.
 Thank you once again for being such a wonderful career advisor. Your efforts have made a significant impact on my career, and I look forward to continuing to learn and grow under your guidance." - Sisley Lin (Avanade Pomona AI & Automation Practice Analyst)
