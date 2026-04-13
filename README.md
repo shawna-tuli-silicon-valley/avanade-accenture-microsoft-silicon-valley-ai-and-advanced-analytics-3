@@ -8,14 +8,8 @@
 Key Contributions:
 1.	Technical Requirements Development: Shawna has shown strong capability in translating functional requirements from stakeholders into technical documentation. Her work has improved these technical specifications – and there’s potential for even greater impact.
 2.	AI Tool Utilization: Shawna has been proactive in leveraging AI tools to enhance our requirements analysis and documentation processes. This approach has streamlined our workflow and is improving the quality of our deliverables.
-3.	Process Improvement: Shawna has made significant contributions to optimizing our team's operations, focusing on:
-
-o	Documenting & enhancing our intake and workflow procedures (incorporating AI into multiple phases)
-
-o	Standardizing our technical documentation practices
-
-o	Exploring promising automation opportunities for technical requirement documentation using Copilot
-5.	Adaptability: Despite not having full database access, Shawna has maintained high productivity levels, showcasing her resourcefulness in approaching tasks.
+3.	Process Improvement: Shawna has made significant contributions to optimizing our team's operations, focusing on: o	Documenting & enhancing our intake and workflow procedures (incorporating AI into multiple phases) o	Standardizing our technical documentation practices o	Exploring promising automation opportunities for technical requirement documentation using Copilot
+4.	Adaptability: Despite not having full database access, Shawna has maintained high productivity levels, showcasing her resourcefulness in approaching tasks.
 
 Shawna's contributions have positively impacted our project's efficiency and ability to deliver. Her technical skills, combined with her enthusiasm for AI tools and process improvement have made her a valued member of the team.  She consistently demonstrates a positive attitude and an eagerness to be involved in all aspects of the project. Her proactive approach is evident in how she constantly seeks out new ways to contribute, regularly asking what she can do next to support the team's objectives. This willingness to engage beyond her core responsibilities not only enhances our project outcomes but also contributes significantly to our team's collaborative and dynamic work environment."  - Matthew Sapsford (Accenture Federal Services Arlington Manager)
 
