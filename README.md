@@ -3,6 +3,8 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2/assets/19508013/eec7d966-d4b8-4f04-bca1-1a378da12783)
 
+"We want you to know how much we appreciate you. We hope your day is filled with wonderful moments and that the coming year is even better than the last. Thank you for being such an important part of our team!" - Avanade 
+
 "Shawna has been a fantastic addition to our project, consistently exceeding expectations despite facing some initial onboarding challenges. Her strong ability to leverage AI tools has been particularly impressive, as she's been actively pushing for the adoption of these technologies to streamline our manual processes from day one.
 
 Key Contributions:
